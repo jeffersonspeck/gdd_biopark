@@ -1,0 +1,260 @@
+# MODELO para o plugin Quests. Mantenha este arquivo em UTF-8.
+# Chaves conferidas no Quests 5.1.6. Teste na versão instalada no servidor.
+# Antes de usar: troque UUID_* pelos UUIDs dos NPCs e as coordenadas 'world 0 64 0' pelos pontos reais.
+quests:
+  m0:
+    name: 'M0 Primeiros passos'
+    ask-message: '<yellow>Siga até o Painel de Circuitos e fale com o Téo.'
+    finish-message: '<green>Muito bem! Agora você já sabe se orientar.'
+    npc-giver-uuid: UUID_BIA
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_TEO_CIRCUITO
+          objective-override:
+            - 'Fale com o Téo no Painel de Circuitos'
+    rewards:
+      quest-points: 1
+  t1_1:
+    name: 'T1.1 Peças do computador'
+    ask-message: '<yellow>Visite as estações do laboratório.'
+    finish-message: '<green>Agora você conhece as peças do computador.'
+    npc-giver-uuid: UUID_PROF_BYTE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - CPU
+          objective-override:
+            - 'Visite a estação da CPU'
+        2:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - RAM
+          objective-override:
+            - 'Visite a estação da memória RAM'
+        3:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - SSD
+          objective-override:
+            - 'Visite a estação de armazenamento'
+        4:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - ES
+          objective-override:
+            - 'Visite a estação de entrada e saída'
+        5:
+          npc-uuids-to-talk-to:
+            - UUID_PROF_BYTE
+          objective-override:
+            - 'Volte e explique uma peça ao mediador'
+    rewards:
+      quest-points: 1
+  t1_2:
+    name: 'T1.2 Caminho da informação'
+    ask-message: '<yellow>Pressione os botões na ordem certa.'
+    finish-message: '<green>Você entendeu o caminho da informação.'
+    npc-giver-uuid: UUID_PROF_BYTE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - PORTA_T12
+          objective-override:
+            - 'Abra a porta e chegue à sala seguinte'
+    rewards:
+      quest-points: 1
+  t1_3:
+    name: 'T1.3 O gerente da máquina'
+    ask-message: '<yellow>Passe pelas portas com as respostas certas.'
+    finish-message: '<green>Você entendeu o papel do sistema operacional.'
+    npc-giver-uuid: UUID_PROF_BYTE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - FIM_T13
+          objective-override:
+            - 'Chegue ao fim do corredor de perguntas'
+    rewards:
+      quest-points: 1
+  t2_1:
+    name: 'T2.1 Viagem do pacote'
+    ask-message: '<yellow>Siga pela Rua das Redes até o servidor.'
+    finish-message: '<green>Seu pacote chegou ao destino.'
+    npc-giver-uuid: UUID_ANA_REDE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - PC
+          objective-override:
+            - 'Saia do computador'
+        2:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - ROTEADOR
+          objective-override:
+            - 'Passe pelo roteador'
+        3:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - SERVIDOR
+          objective-override:
+            - 'Chegue ao servidor'
+    rewards:
+      quest-points: 1
+  t2_2:
+    name: 'T2.2 Senha forte'
+    ask-message: '<yellow>Atravesse a porta com a senha mais segura.'
+    finish-message: '<green>Essa é a escolha mais segura.'
+    npc-giver-uuid: UUID_ANA_REDE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - PORTA_SENHA
+          objective-override:
+            - 'Entre pela porta da senha mais segura'
+    rewards:
+      quest-points: 1
+  t2_3:
+    name: 'T2.3 Golpe ou verdade?'
+    ask-message: '<yellow>Classifique as mensagens das placas.'
+    finish-message: '<green>Você aprendeu a desconfiar de golpes.'
+    npc-giver-uuid: UUID_ANA_REDE
+    stages:
+      ordered:
+        1:
+          locations-to-reach:
+            - world 0 64 0
+          reach-location-radii:
+            - 3
+          reach-location-names:
+            - FIM_T23
+          objective-override:
+            - 'Chegue ao fim do percurso de mensagens'
+    rewards:
+      quest-points: 1
+  t3_1:
+    name: 'T3.1 Texto bem feito'
+    ask-message: '<yellow>Monte o documento e entregue ao mediador.'
+    finish-message: '<green>Seu documento ficou organizado.'
+    npc-giver-uuid: UUID_DUDA_DOCS
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_DUDA_DOCS
+          objective-override:
+            - 'Fale com a Duda depois de entregar o texto'
+    rewards:
+      quest-points: 1
+  t3_2:
+    name: 'T3.2 Planilha de recursos'
+    ask-message: '<yellow>Conte os blocos e monte a planilha.'
+    finish-message: '<green>Agora os números contam uma história.'
+    npc-giver-uuid: UUID_DUDA_DOCS
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_DUDA_DOCS
+          objective-override:
+            - 'Fale com a Duda depois de entregar a planilha'
+    rewards:
+      quest-points: 1
+  t3_3:
+    name: 'T3.3 Apresentação do mapa'
+    ask-message: '<yellow>Tire uma captura e monte os slides.'
+    finish-message: '<green>Parabéns pela apresentação.'
+    npc-giver-uuid: UUID_DUDA_DOCS
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_DUDA_DOCS
+          objective-override:
+            - 'Fale com a Duda depois de entregar os slides'
+    rewards:
+      quest-points: 1
+  t4_1:
+    name: 'T4.1 Liga e desliga'
+    ask-message: '<yellow>Ligue a alavanca e observe a lâmpada.'
+    finish-message: '<green>Você acionou seu primeiro circuito.'
+    npc-giver-uuid: UUID_TEO_CIRCUITO
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_TEO_CIRCUITO
+          objective-override:
+            - 'Teste a alavanca e volte a falar com o Téo'
+    rewards:
+      quest-points: 1
+  t4_2:
+    name: 'T4.2 As três portas'
+    ask-message: '<yellow>Teste as bancadas AND, OR e NOT e preencha a tabela-verdade.'
+    finish-message: '<green>Boa! Essa é a linguagem dos circuitos.'
+    npc-giver-uuid: UUID_TEO_CIRCUITO
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_TEO_CIRCUITO
+          objective-override:
+            - 'Mostre a tabela-verdade ao Téo'
+    rewards:
+      quest-points: 1
+  t4_3:
+    name: 'T4.3 Construa seu circuito'
+    ask-message: '<yellow>Em dupla, monte uma porta que só abre com dois botões.'
+    finish-message: '<green>Você pensou como quem projeta um processador.'
+    npc-giver-uuid: UUID_TEO_CIRCUITO
+    stages:
+      ordered:
+        1:
+          npc-uuids-to-talk-to:
+            - UUID_TEO_CIRCUITO
+          objective-override:
+            - 'Mostre o circuito funcionando ao Téo'
+    rewards:
+      quest-points: 1

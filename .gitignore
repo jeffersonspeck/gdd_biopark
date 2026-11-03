@@ -1,0 +1,23 @@
+# Dados pessoais e de sessões: nunca versionar
+dados/preenchidos/
+logs/
+*.log
+*.log.gz
+plugins/Quests/data/
+usercache.json
+whitelist.json
+ops.json
+banned-*.json
+
+# Mundo e arquivos do servidor
+world*/
+*.jar
+eula.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Texturas do jogo: não redistribuir
+texturas/
+tex/

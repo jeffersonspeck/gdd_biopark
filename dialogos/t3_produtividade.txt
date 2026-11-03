@@ -1,0 +1,40 @@
+TRILHA 3 - PRODUTIVIDADE
+NPC: Duda Docs | Local: Sala Hexagonal
+
+=== T3.1 TEXTO BEM FEITO ===
+[Início]
+Duda Docs: Um bom documento é fácil de ler. Ele tem título, parágrafos e listas.
+Duda Docs: Pegue os blocos do documento na ordem certa: título, parágrafo e lista.
+
+[Tarefa fora do jogo]
+Duda Docs: Agora abra um editor de texto e conte o que você viu neste mundo.
+Duda Docs: Use um título, um parágrafo e uma lista. Revise antes de entregar.
+
+[Conclusão]
+Duda Docs: Ficou organizado! Quem lê encontra a informação mais depressa.
+
+=== T3.2 PLANILHA DE RECURSOS ===
+[Início]
+Duda Docs: Planilhas organizam dados em linhas e colunas, e cada espaço é uma célula.
+Duda Docs: Conte os blocos desta construção: quantos brancos, azuis e amarelos?
+
+[Tarefa fora do jogo]
+Duda Docs: Anote os números em uma planilha e use a fórmula =SOMA para calcular o total.
+Duda Docs: Depois, crie um gráfico para comparar as cores.
+
+[Dica]
+Duda Docs: Se os números estiverem de B2 a B4, digite =SOMA(B2:B4).
+
+[Conclusão]
+Duda Docs: Agora os números contam uma história. É assim que se apresenta um resultado.
+
+=== T3.3 APRESENTAÇÃO DO MAPA ===
+[Início]
+Duda Docs: Uma boa apresentação tem início, meio e fim, e pouco texto em cada slide.
+Duda Docs: Tire uma captura com a tecla F2. Escolha algo do mapa de que você gostou.
+
+[Tarefa fora do jogo]
+Duda Docs: Monte de 3 a 5 slides: o que você viu, o que aprendeu e onde vai usar isso.
+
+[Conclusão]
+Duda Docs: Parabéns! Agora você sabe escrever, calcular e apresentar suas ideias.

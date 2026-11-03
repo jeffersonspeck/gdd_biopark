@@ -1,0 +1,58 @@
+TRILHA 2 - INTERNET E SEGURANÇA DIGITAL
+NPC: Ana Rede | Local: Rua das Redes
+
+=== T2.1 VIAGEM DO PACOTE ===
+[Início]
+Ana Rede: Quando você abre um site, seu pedido viaja em pedacinhos chamados pacotes.
+Ana Rede: Hoje você é um pacote! Siga pela rua até o servidor.
+
+[Ponto Computador]
+Ana Rede: Tudo começa aqui: seu computador pede uma página.
+
+[Ponto Roteador]
+Ana Rede: O roteador é como um carteiro: ele escolhe o caminho para cada pacote.
+
+[Ponto Servidor]
+Ana Rede: Chegou! O servidor é um computador que guarda o site e devolve a resposta.
+
+[Conclusão]
+Ana Rede: Até este mundo fica em um servidor. Explique ao mediador o que faz um roteador.
+
+=== T2.2 SENHA FORTE ===
+[Início]
+Ana Rede: Uma senha forte é longa, difícil de adivinhar e não é repetida em outros lugares.
+Ana Rede: Atravesse a porta com a senha mais segura. Importante: nunca use aqui uma senha sua.
+
+[Opções]
+Porta A: 123456
+Porta B: maria2012
+Porta C: Bloco-Azul!Rio7-Lanche
+
+[Erro]
+Ana Rede: Essa senha é fácil de adivinhar. Procure uma mais longa e sem dados pessoais.
+
+[Conclusão]
+Ana Rede: Isso! E tem mais: ligue a verificação em duas etapas sempre que puder.
+
+=== T2.3 GOLPE OU VERDADE? ===
+[Início]
+Ana Rede: Golpes costumam criar pressa, oferecer prêmios ou pedir dados.
+Ana Rede: Leia cada placa e escolha: golpe ou seguro.
+
+[Mensagem 1]
+Placa: "Você ganhou um celular! Clique em 5 minutos." - Resposta: Golpe
+
+[Mensagem 2]
+Placa: "Seu perfil será apagado. Envie sua senha agora." - Resposta: Golpe
+
+[Mensagem 3]
+Placa: "A escola publicou o calendário no site oficial." - Resposta: Seguro
+
+[Mensagem 4]
+Placa: "Um desconhecido pede sua foto e seu endereço." - Resposta: Golpe
+
+[Mensagem 5]
+Placa: "Ative a verificação em duas etapas nas configurações do app." - Resposta: Seguro
+
+[Conclusão]
+Ana Rede: Excelente! Na dúvida, não clique e fale com um adulto de confiança.

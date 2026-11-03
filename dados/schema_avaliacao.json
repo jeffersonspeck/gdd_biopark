@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Avaliação por missão",
+  "description": "Use código do participante, nunca nome completo.",
+  "type": "object",
+  "required": [
+    "codigo_participante",
+    "sessao_data",
+    "missao_id",
+    "concluiu",
+    "nota_rubrica"
+  ],
+  "properties": {
+    "codigo_participante": {
+      "type": "string",
+      "pattern": "^A[0-9]{3}$"
+    },
+    "sessao_data": {
+      "type": "string",
+      "format": "date"
+    },
+    "modalidade": {
+      "enum": [
+        "presencial",
+        "remota"
+      ]
+    },
+    "missao_id": {
+      "type": "string"
+    },
+    "concluiu": {
+      "type": "boolean"
+    },
+    "nota_rubrica": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "mediador": {
+      "type": "string"
+    }
+  }
+}

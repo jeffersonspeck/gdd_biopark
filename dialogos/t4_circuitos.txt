@@ -1,0 +1,58 @@
+TRILHA 4 - CIRCUITOS LÓGICOS
+NPC: Téo Circuito | Local: Painel de Circuitos
+
+=== T4.1 LIGA E DESLIGA ===
+[Início]
+Téo Circuito: Ei, chegou na hora! Estou cuidando deste painel gigante.
+Téo Circuito: No fundo, todo computador trabalha com dois estados: ligado e desligado.
+Téo Circuito: Chamamos isso de 1 e 0. Cada um desses valores é um bit.
+
+[Atividade]
+Téo Circuito: A alavanca é a entrada. A lâmpada é a saída. Ligue a alavanca e observe.
+
+[Conclusão]
+Téo Circuito: Viu? A entrada mudou e a saída respondeu. Isso é um circuito!
+
+=== T4.2 AS TRÊS PORTAS ===
+[Início]
+Téo Circuito: Portas lógicas tomam decisões simples. Com bilhões delas, temos um processador.
+Téo Circuito: Vamos testar as três bancadas à frente do painel. Anote o que acontece.
+
+[Bancada AND - base amarela]
+Téo Circuito: Esta é a porta AND, o "E". Ela só acende com a alavanca A E a alavanca B ligadas.
+Téo Circuito: Como um cofre com duas chaves: precisa das duas ao mesmo tempo.
+
+[Bancada OR - base azul]
+Téo Circuito: Esta é a porta OR, o "OU". Ela acende com a alavanca A OU a B, ou as duas.
+Téo Circuito: Como uma campainha com dois botões: qualquer um faz tocar.
+
+[Bancada NOT - base vermelha]
+Téo Circuito: Esta é a porta NOT, o "NÃO". Ela inverte: entrada ligada, saída desligada.
+Téo Circuito: Como uma luz de emergência, que acende quando a energia acaba.
+
+[Tabela-verdade]
+Téo Circuito: Agora preencha a tabela-verdade: todas as combinações e cada resultado.
+
+[Dica]
+Téo Circuito: Teste uma combinação de cada vez e anote antes de passar para a próxima.
+
+[Conclusão]
+Téo Circuito: Boa! Essa tabela é como os engenheiros descrevem um circuito.
+
+=== T4.3 CONSTRUA SEU CIRCUITO ===
+[Início]
+Téo Circuito: Sua vez, em dupla! Vá para as bancadas livres com os materiais do baú.
+Téo Circuito: Desafio: faça uma porta que só abre quando os dois botões forem pressionados.
+
+[Dica 1]
+Téo Circuito: Qual porta só libera quando as duas entradas estão ligadas?
+
+[Dica 2]
+Téo Circuito: Use pó de redstone para ligar as peças. Uma tocha de redstone inverte o sinal.
+
+[Dica 3]
+Téo Circuito: Não funcionou? Teste trecho por trecho. Encontrar o erro também é programar!
+
+[Conclusão]
+Téo Circuito: Funcionou! Agora conte para o mediador qual porta lógica vocês usaram.
+Téo Circuito: Você acabou de pensar como quem projeta um processador.

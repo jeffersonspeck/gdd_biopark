@@ -1,0 +1,61 @@
+TRILHA 1 - FUNDAMENTOS DE COMPUTADORES E SO
+NPC: Prof. Byte | Local: Laboratório de Hardware
+
+=== T1.1 PEÇAS DO COMPUTADOR ===
+[Início]
+Prof. Byte: Olá! Já pensou no que existe dentro de um computador?
+Prof. Byte: Aqui as peças são gigantes. Visite cada estação do laboratório.
+
+[Estação CPU]
+Prof. Byte: Esta é a CPU, o processador. Ela executa as instruções dos programas.
+Prof. Byte: Pense nela como um cozinheiro que segue a receita, passo a passo.
+
+[Estação Memória RAM]
+Prof. Byte: Esta é a memória RAM. Ela guarda o que está em uso agora.
+Prof. Byte: É como a bancada da cozinha: rápida, mas é limpa quando o computador desliga.
+
+[Estação Armazenamento]
+Prof. Byte: Este é o armazenamento, como um SSD. Seus arquivos ficam aqui.
+Prof. Byte: É como a despensa: guarda tudo mesmo com o computador desligado.
+
+[Estação Entrada e Saída]
+Prof. Byte: Teclado e mouse são dispositivos de entrada: eles enviam dados ao computador.
+Prof. Byte: Monitor e caixa de som são de saída: eles mostram o resultado.
+
+[Conclusão]
+Prof. Byte: Muito bem! Agora explique para o mediador a função de uma das peças.
+
+=== T1.2 CAMINHO DA INFORMAÇÃO ===
+[Início]
+Prof. Byte: Todo computador segue o mesmo caminho: entrada, processamento, armazenamento e saída.
+Prof. Byte: Pressione os botões nessa ordem para abrir a porta.
+
+[Erro]
+Prof. Byte: Quase! Pense: o que acontece logo depois de você apertar uma tecla?
+
+[Conclusão]
+Prof. Byte: Isso! Você digita, a CPU processa, o dado é guardado e o resultado aparece na tela.
+
+=== T1.3 O GERENTE DA MÁQUINA ===
+[Início]
+Prof. Byte: Quem organiza tudo isso? O sistema operacional, como Windows, Linux ou Android.
+Prof. Byte: Ele é o gerente: abre os programas, cuida dos arquivos e controla as peças.
+Prof. Byte: Passe pelas portas certas para mostrar o que aprendeu.
+
+[Pergunta 1]
+Placa: O sistema operacional é um programa? (Sim / Não) - Resposta: Sim
+
+[Pergunta 2]
+Placa: Onde um arquivo fica guardado depois de salvo? (RAM / Armazenamento) - Resposta: Armazenamento
+
+[Pergunta 3]
+Placa: Pastas servem para: (Organizar arquivos / Deixar o computador mais rápido) - Resposta: Organizar arquivos
+
+[Pergunta 4]
+Placa: Qual destes é um sistema operacional? (Linux / Mouse) - Resposta: Linux
+
+[Erro]
+Prof. Byte: Essa porta estava errada. Volte e tente outra vez.
+
+[Conclusão]
+Prof. Byte: Parabéns! Você já entende como a máquina se organiza.

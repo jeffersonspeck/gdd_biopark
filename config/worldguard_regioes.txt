@@ -1,0 +1,42 @@
+REGIÕES (plugin WorldGuard)
+Selecione a área com //wand e rode os comandos de cada região.
+Confira a sintaxe com /rg help.
+
+--- Mundo inteiro ---
+/rg flag __global__ pvp deny
+/rg flag __global__ mob-spawning deny
+/rg flag __global__ creeper-explosion deny
+/rg flag __global__ fire-spread deny
+
+--- hub ---
+/rg define hub
+/rg flag hub build deny
+/rg flag hub use allow
+
+--- lab_hardware ---
+/rg define lab_hardware
+/rg flag lab_hardware build deny
+/rg flag lab_hardware use allow
+
+--- rua_redes ---
+/rg define rua_redes
+/rg flag rua_redes build deny
+/rg flag rua_redes use allow
+
+--- sala_hex ---
+/rg define sala_hex
+/rg flag sala_hex build deny
+/rg flag sala_hex use allow
+
+--- painel ---
+/rg define painel
+/rg flag painel build deny
+/rg flag painel use allow
+
+--- bancadas livres: alunos podem construir ---
+/rg define bancadas
+/rg setpriority bancadas 10
+/rg flag bancadas build allow
+
+--- acadêmicos que constroem ---
+/rg addmember <regiao> <jogador>

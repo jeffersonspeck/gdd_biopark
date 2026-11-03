@@ -1,0 +1,31 @@
+CRIAÇÃO DOS NPCs (plugin Citizens)
+Fique no ponto do NPC, olhando para onde ele deve olhar, e rode os comandos.
+Confira a sintaxe com /npc help. Ela pode mudar conforme a versão.
+
+--- Bia, no Hub ---
+/npc create Bia
+/npc skin <skin>
+
+--- Prof. Byte, no Laboratório de Hardware ---
+/npc create Prof_Byte
+/npc skin <skin>
+
+--- Ana Rede, na Rua das Redes ---
+/npc create Ana_Rede
+/npc skin <skin>
+
+--- Duda Docs, na Sala Hexagonal ---
+/npc create Duda_Docs
+/npc skin <skin>
+
+--- Téo Circuito, em frente ao painel gigante ---
+/npc create Teo_Circuito
+/npc skin <skin>
+
+Para colocar um item na mão (por exemplo, um martelo de técnico no Téo):
+/npc equip
+
+Depois de criar, pegue os UUIDs em plugins/Citizens/saves.yml e use-os em config/quests.yml.
+As falas de cada NPC estão em dialogos/.
+
+Observação: o NPC fica parado. Animação de trabalho exige script adicional.

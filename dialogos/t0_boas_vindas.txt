@@ -1,0 +1,25 @@
+TRILHA 0 - BOAS-VINDAS
+NPC: Bia | Local: Hub, em frente à fachada
+
+[Primeira conversa]
+Bia: Oi! Que bom ter você aqui. Eu sou a Bia.
+Bia: Este mundo foi inspirado no Biopark e no Colégio Donaduzzi.
+Bia: Cada zona ensina algo de informática, e você aprende fazendo.
+Bia: Para ver suas missões, digite /quests no chat.
+
+[Regras]
+Bia: Antes de começar, três combinados:
+Bia: 1. Respeite os colegas no chat.
+Bia: 2. Não compartilhe nome completo, endereço, telefone ou senhas.
+Bia: 3. Pediu ajuda? Chame o mediador. Ninguém aprende sozinho.
+
+[Missão M0 - início]
+Bia: Primeira missão: siga pelo caminho até o painel gigante de circuitos.
+Bia: Procure o Téo. Ele é o técnico que está sempre trabalhando lá.
+
+[Dica]
+Bia: Perdeu o caminho? Olhe as placas nos cruzamentos.
+
+[Conclusão de todas as trilhas]
+Bia: Você concluiu as trilhas! Agora já sabe como o computador funciona por dentro.
+Bia: Continue curioso e use a tecnologia com responsabilidade.
