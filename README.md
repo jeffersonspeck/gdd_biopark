@@ -1,6 +1,6 @@
 # Biopark Toledo no Minecraft: Informática que Joga
 
-Servidor educacional em Minecraft, inspirado nos espaços do Biopark Toledo, para ensinar informática e pensamento computacional a estudantes da educação básica por meio de missões.
+Servidor educacional em Minecraft, inspirado nos espaços do Biopark Toledo, para ensinar informática e pensamento computacional a estudantes por meio de missões.
 
 Projeto de extensão da Faculdade Donaduzzi / Biopark Educação, em parceria com o Colégio Donaduzzi (Toledo - PR).
 
