@@ -1,0 +1,7 @@
+﻿sessao;data_sessao;tema;modalidade;alunos_presentes;alunos_ausentes;total_acessos;reconexoes;missoes_previstas;avaliacoes_realizadas;missoes_concluidas;eventos_log
+S1;2026-10-02;Boas-vindas e circuitos lógicos;presencial;55;5;58;3;m0,t4_1;110;99;1244
+S2;2026-10-05;Portas lógicas;remota;55;5;59;4;t4_2,t4_3;110;88;1300
+S3;2026-10-08;Fundamentos de computadores;presencial;55;5;58;3;t1_1,t1_2,t1_3;165;137;1810
+S4;2026-10-13;Internet e redes;remota;55;5;60;5;t2_1,t2_2;110;92;1275
+S5;2026-10-16;Segurança digital;presencial;56;4;58;2;t2_3;56;42;967
+S6;2026-10-20;Produtividade e encerramento;presencial;57;3;64;7;t3_1,t3_2,t3_3;170;129;1751

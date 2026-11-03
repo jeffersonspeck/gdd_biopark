@@ -1,0 +1,781 @@
+﻿codigo_participante;sessao_data;sessao;modalidade;missao_id;missao_nome;concluiu;nota_rubrica;situacao;tentativas;recebeu_ajuda;mediador
+A001;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A001;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;2;SIM;M01
+A002;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M01
+A003;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A005;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;2;NAO;M01
+A005;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;AUSENTE;0;NAO;M01
+A006;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;AUSENTE;0;NAO;M01
+A007;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;AUSENTE;0;NAO;M01
+A007;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;AUSENTE;0;NAO;M01
+A008;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;2;SIM;M01
+A009;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M01
+A011;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;2;SIM;M02
+A011;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;NAO_CONCLUIDA;1;NAO;M02
+A012;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;2;SIM;M02
+A013;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;NAO_CONCLUIDA;2;SIM;M02
+A014;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;1;NAO;M02
+A014;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;NAO_CONCLUIDA;1;NAO;M02
+A015;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;2;SIM;M02
+A019;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;2;SIM;M02
+A020;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M02
+A021;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M03
+A021;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M03
+A022;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;2;SIM;M03
+A024;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;AUSENTE;0;NAO;M03
+A024;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;AUSENTE;0;NAO;M03
+A025;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;SIM;M03
+A025;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M03
+A027;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;NAO;M03
+A027;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M03
+A028;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;SIM;M03
+A028;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;NAO;M03
+A030;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;2;SIM;M03
+A031;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A031;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;1;SIM;M04
+A032;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M04
+A034;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M04
+A036;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A036;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;SIM;M04
+A037;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;1;SIM;M04
+A038;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M04
+A039;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;AUSENTE;0;NAO;M04
+A039;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;AUSENTE;0;NAO;M04
+A040;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;2;NAO;M04
+A040;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;NAO_CONCLUIDA;1;NAO;M04
+A041;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;2;SIM;M05
+A041;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;1;SIM;M05
+A042;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;1;NAO;M05
+A042;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M05
+A043;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;1;NAO;M05
+A043;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M05
+A044;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;NAO;M05
+A045;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M05
+A045;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;NAO_CONCLUIDA;1;NAO;M05
+A046;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;1;SIM;M05
+A046;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;1;SIM;M05
+A049;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;1;SIM;M05
+A050;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;2;SIM;M05
+A051;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M06
+A051;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;1;CONCLUIDA;1;SIM;M06
+A052;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;1;NAO;M06
+A052;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A053;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M06
+A053;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;SIM;M06
+A054;2026-10-02;S1;presencial;m0;Primeiros passos;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A055;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;NAO;M06
+A055;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A056;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;NAO_CONCLUIDA;1;NAO;M06
+A056;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A057;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;2;NAO;M06
+A057;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;2;CONCLUIDA;1;SIM;M06
+A058;2026-10-02;S1;presencial;m0;Primeiros passos;true;2;CONCLUIDA;1;NAO;M06
+A058;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A059;2026-10-02;S1;presencial;m0;Primeiros passos;true;1;CONCLUIDA;1;SIM;M06
+A059;2026-10-02;S1;presencial;t4_1;Liga e desliga;true;3;CONCLUIDA;1;NAO;M06
+A060;2026-10-02;S1;presencial;m0;Primeiros passos;false;0;AUSENTE;0;NAO;M06
+A060;2026-10-02;S1;presencial;t4_1;Liga e desliga;false;0;AUSENTE;0;NAO;M06
+A001;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M01
+A001;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-05;S2;remota;t4_2;As três portas;true;1;CONCLUIDA;2;SIM;M01
+A004;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;NAO;M01
+A005;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M01
+A005;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M01
+A006;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;NAO;M01
+A007;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M01
+A008;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;SIM;M01
+A009;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M01
+A010;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;1;CONCLUIDA;1;SIM;M01
+A011;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M02
+A011;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;NAO;M02
+A012;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M02
+A013;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M02
+A014;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M02
+A016;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;2;SIM;M02
+A018;2026-10-05;S2;remota;t4_2;As três portas;true;1;CONCLUIDA;1;SIM;M02
+A018;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M02
+A019;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M02
+A019;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;SIM;M02
+A020;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M02
+A021;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M03
+A021;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-05;S2;remota;t4_2;As três portas;false;0;AUSENTE;0;NAO;M03
+A023;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;AUSENTE;0;NAO;M03
+A024;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M03
+A024;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;2;SIM;M03
+A025;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;2;SIM;M03
+A027;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M03
+A028;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M03
+A031;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M04
+A031;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M04
+A032;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M04
+A033;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M04
+A034;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-05;S2;remota;t4_2;As três portas;false;0;AUSENTE;0;NAO;M04
+A035;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;AUSENTE;0;NAO;M04
+A036;2026-10-05;S2;remota;t4_2;As três portas;true;1;CONCLUIDA;2;SIM;M04
+A036;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-05;S2;remota;t4_2;As três portas;true;1;CONCLUIDA;2;SIM;M04
+A037;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;NAO;M04
+A038;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;1;CONCLUIDA;1;SIM;M04
+A039;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;2;SIM;M04
+A039;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;1;CONCLUIDA;1;SIM;M04
+A040;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M04
+A040;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M04
+A041;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;2;SIM;M05
+A041;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;NAO;M05
+A042;2026-10-05;S2;remota;t4_2;As três portas;false;0;AUSENTE;0;NAO;M05
+A042;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;AUSENTE;0;NAO;M05
+A043;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M05
+A043;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M05
+A044;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;SIM;M05
+A045;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;1;NAO;M05
+A045;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;2;SIM;M05
+A046;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M05
+A046;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;2;SIM;M05
+A050;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;2;SIM;M05
+A050;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M05
+A051;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;2;NAO;M06
+A051;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M06
+A052;2026-10-05;S2;remota;t4_2;As três portas;true;2;CONCLUIDA;2;NAO;M06
+A052;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M06
+A053;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M06
+A053;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-05;S2;remota;t4_2;As três portas;false;0;AUSENTE;0;NAO;M06
+A054;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;AUSENTE;0;NAO;M06
+A055;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;SIM;M06
+A055;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;2;SIM;M06
+A056;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;2;SIM;M06
+A056;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;2;NAO;M06
+A057;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;2;SIM;M06
+A057;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;1;SIM;M06
+A058;2026-10-05;S2;remota;t4_2;As três portas;false;0;NAO_CONCLUIDA;1;NAO;M06
+A058;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;NAO_CONCLUIDA;2;SIM;M06
+A059;2026-10-05;S2;remota;t4_2;As três portas;false;0;AUSENTE;0;NAO;M06
+A059;2026-10-05;S2;remota;t4_3;Construa seu circuito;false;0;AUSENTE;0;NAO;M06
+A060;2026-10-05;S2;remota;t4_2;As três portas;true;3;CONCLUIDA;1;NAO;M06
+A060;2026-10-05;S2;remota;t4_3;Construa seu circuito;true;2;CONCLUIDA;1;NAO;M06
+A001;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M01
+A001;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;1;NAO;M01
+A001;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M01
+A003;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M01
+A004;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M01
+A005;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A005;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;2;SIM;M01
+A005;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M01
+A006;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;NAO;M01
+A007;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M01
+A007;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;SIM;M01
+A008;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;SIM;M01
+A008;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M01
+A011;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A011;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M02
+A011;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;1;CONCLUIDA;1;SIM;M02
+A012;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;NAO;M02
+A014;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M02
+A015;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M02
+A015;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M02
+A018;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M02
+A019;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M02
+A020;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;NAO;M02
+A021;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M03
+A021;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A021;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;2;SIM;M03
+A022;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;NAO;M03
+A022;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M03
+A023;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;1;NAO;M03
+A023;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M03
+A024;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;NAO;M03
+A024;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A024;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;SIM;M03
+A026;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;1;CONCLUIDA;2;SIM;M03
+A026;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M03
+A027;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M03
+A028;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M03
+A029;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M03
+A029;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M03
+A030;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M03
+A031;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;NAO;M04
+A031;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M04
+A031;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M04
+A033;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M04
+A033;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;2;SIM;M04
+A033;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;AUSENTE;0;NAO;M04
+A035;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;AUSENTE;0;NAO;M04
+A035;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;AUSENTE;0;NAO;M04
+A036;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A036;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M04
+A036;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M04
+A037;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;1;CONCLUIDA;1;SIM;M04
+A037;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;1;CONCLUIDA;2;SIM;M04
+A039;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;AUSENTE;0;NAO;M04
+A039;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;AUSENTE;0;NAO;M04
+A039;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;AUSENTE;0;NAO;M04
+A040;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M04
+A040;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M04
+A040;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M04
+A041;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M05
+A041;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M05
+A041;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M05
+A042;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M05
+A042;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M05
+A042;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;2;SIM;M05
+A043;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M05
+A043;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;1;NAO;M05
+A043;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;1;NAO;M05
+A044;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;SIM;M05
+A044;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M05
+A044;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;2;SIM;M05
+A045;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;SIM;M05
+A045;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;SIM;M05
+A045;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M05
+A046;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;SIM;M05
+A046;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;SIM;M05
+A046;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M05
+A047;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;1;NAO;M05
+A047;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M05
+A048;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;SIM;M05
+A049;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;NAO;M05
+A049;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;SIM;M05
+A049;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M05
+A050;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;2;SIM;M05
+A050;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;SIM;M05
+A051;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M06
+A051;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;2;SIM;M06
+A051;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;1;CONCLUIDA;2;SIM;M06
+A052;2026-10-08;S3;presencial;t1_1;Peças do computador;true;1;CONCLUIDA;2;SIM;M06
+A052;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;2;NAO;M06
+A052;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M06
+A053;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;NAO;M06
+A053;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;2;SIM;M06
+A053;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M06
+A054;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;NAO_CONCLUIDA;1;NAO;M06
+A054;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;NAO_CONCLUIDA;1;NAO;M06
+A054;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;3;CONCLUIDA;1;NAO;M06
+A055;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;AUSENTE;0;NAO;M06
+A055;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;AUSENTE;0;NAO;M06
+A055;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;AUSENTE;0;NAO;M06
+A056;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;AUSENTE;0;NAO;M06
+A056;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;AUSENTE;0;NAO;M06
+A056;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;AUSENTE;0;NAO;M06
+A057;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;2;NAO;M06
+A057;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;1;NAO;M06
+A057;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M06
+A058;2026-10-08;S3;presencial;t1_1;Peças do computador;true;2;CONCLUIDA;1;NAO;M06
+A058;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;2;CONCLUIDA;2;NAO;M06
+A058;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;NAO_CONCLUIDA;1;NAO;M06
+A059;2026-10-08;S3;presencial;t1_1;Peças do computador;false;0;AUSENTE;0;NAO;M06
+A059;2026-10-08;S3;presencial;t1_2;Caminho da informação;false;0;AUSENTE;0;NAO;M06
+A059;2026-10-08;S3;presencial;t1_3;O gerente da máquina;false;0;AUSENTE;0;NAO;M06
+A060;2026-10-08;S3;presencial;t1_1;Peças do computador;true;3;CONCLUIDA;1;NAO;M06
+A060;2026-10-08;S3;presencial;t1_2;Caminho da informação;true;3;CONCLUIDA;1;NAO;M06
+A060;2026-10-08;S3;presencial;t1_3;O gerente da máquina;true;2;CONCLUIDA;2;SIM;M06
+A001;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;2;SIM;M01
+A001;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;2;SIM;M01
+A002;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M01
+A004;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;1;NAO;M01
+A005;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M01
+A005;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;NAO;M01
+A007;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;2;SIM;M01
+A008;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;1;NAO;M01
+A009;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;2;SIM;M01
+A010;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M01
+A011;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M02
+A011;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;AUSENTE;0;NAO;M02
+A012;2026-10-13;S4;remota;t2_2;Senha forte;false;0;AUSENTE;0;NAO;M02
+A013;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;NAO;M02
+A013;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M02
+A014;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;NAO;M02
+A014;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M02
+A015;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;NAO;M02
+A015;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;2;SIM;M02
+A016;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;AUSENTE;0;NAO;M02
+A016;2026-10-13;S4;remota;t2_2;Senha forte;false;0;AUSENTE;0;NAO;M02
+A017;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;2;SIM;M02
+A017;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M02
+A018;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M02
+A021;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M03
+A021;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;2;SIM;M03
+A022;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;AUSENTE;0;NAO;M03
+A022;2026-10-13;S4;remota;t2_2;Senha forte;false;0;AUSENTE;0;NAO;M03
+A023;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;2;SIM;M03
+A024;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A024;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;2;SIM;M03
+A025;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;2;NAO;M03
+A029;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;2;SIM;M03
+A030;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;2;SIM;M03
+A031;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;2;SIM;M04
+A031;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M04
+A032;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;1;SIM;M04
+A034;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A036;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;2;SIM;M04
+A036;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;1;SIM;M04
+A038;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A038;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A039;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M04
+A039;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;2;SIM;M04
+A040;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M04
+A040;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M04
+A041;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;2;NAO;M05
+A041;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;2;SIM;M05
+A042;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;NAO;M05
+A042;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;1;SIM;M05
+A043;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M05
+A043;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M05
+A045;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M05
+A045;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;2;SIM;M05
+A046;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;1;SIM;M05
+A046;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;2;SIM;M05
+A047;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;1;SIM;M05
+A048;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;2;SIM;M05
+A048;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;2;SIM;M05
+A051;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;2;NAO;M06
+A051;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M06
+A052;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M06
+A052;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;NAO;M06
+A053;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;SIM;M06
+A053;2026-10-13;S4;remota;t2_2;Senha forte;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;AUSENTE;0;NAO;M06
+A054;2026-10-13;S4;remota;t2_2;Senha forte;false;0;AUSENTE;0;NAO;M06
+A055;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;3;CONCLUIDA;1;NAO;M06
+A055;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;SIM;M06
+A056;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;1;CONCLUIDA;2;SIM;M06
+A056;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;1;SIM;M06
+A057;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;NAO;M06
+A057;2026-10-13;S4;remota;t2_2;Senha forte;false;0;NAO_CONCLUIDA;1;NAO;M06
+A058;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;NAO_CONCLUIDA;1;SIM;M06
+A058;2026-10-13;S4;remota;t2_2;Senha forte;true;1;CONCLUIDA;1;SIM;M06
+A059;2026-10-13;S4;remota;t2_1;Viagem do pacote;true;2;CONCLUIDA;1;SIM;M06
+A059;2026-10-13;S4;remota;t2_2;Senha forte;true;2;CONCLUIDA;1;SIM;M06
+A060;2026-10-13;S4;remota;t2_1;Viagem do pacote;false;0;AUSENTE;0;NAO;M06
+A060;2026-10-13;S4;remota;t2_2;Senha forte;false;0;AUSENTE;0;NAO;M06
+A001;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M01
+A004;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;2;NAO;M01
+A005;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;NAO;M01
+A009;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M01
+A011;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;NAO;M02
+A013;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;NAO;M02
+A014;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M02
+A016;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;2;SIM;M02
+A018;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M02
+A020;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M02
+A021;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;AUSENTE;0;NAO;M03
+A023;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;1;CONCLUIDA;2;SIM;M03
+A024;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A028;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M03
+A031;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M04
+A032;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M04
+A034;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M04
+A035;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M04
+A036;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;1;CONCLUIDA;1;SIM;M04
+A038;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;2;SIM;M04
+A039;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;AUSENTE;0;NAO;M04
+A040;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M04
+A041;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M05
+A042;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;AUSENTE;0;NAO;M05
+A043;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M05
+A045;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;2;SIM;M05
+A046;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;2;NAO;M05
+A047;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M05
+A048;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M05
+A049;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M05
+A050;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;1;SIM;M05
+A051;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;AUSENTE;0;NAO;M06
+A052;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;SIM;M06
+A053;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;NAO;M06
+A055;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;2;SIM;M06
+A056;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;3;CONCLUIDA;1;NAO;M06
+A057;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;1;CONCLUIDA;1;SIM;M06
+A058;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;1;CONCLUIDA;2;SIM;M06
+A059;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;true;2;CONCLUIDA;1;SIM;M06
+A060;2026-10-16;S5;presencial;t2_3;Golpe ou verdade?;false;0;NAO_CONCLUIDA;2;SIM;M06
+A001;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A001;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A001;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A002;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M01
+A002;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M01
+A003;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;SIM;M01
+A003;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A003;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;1;CONCLUIDA;2;SIM;M01
+A004;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A004;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;SIM;M01
+A005;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M01
+A005;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A005;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M01
+A006;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A006;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A007;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A008;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M01
+A008;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M01
+A008;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A009;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M01
+A009;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M01
+A010;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M01
+A011;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M02
+A011;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M02
+A011;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M02
+A012;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;AUSENTE;0;NAO;M02
+A012;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;AUSENTE;0;NAO;M02
+A012;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;AUSENTE;0;NAO;M02
+A013;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M02
+A013;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M02
+A013;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M02
+A014;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M02
+A015;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M02
+A015;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M02
+A015;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;2;SIM;M02
+A016;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;AUSENTE;0;NAO;M02
+A016;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;AUSENTE;0;NAO;M02
+A016;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;AUSENTE;0;NAO;M02
+A017;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M02
+A017;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;NAO;M02
+A017;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M02
+A018;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M02
+A018;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;1;CONCLUIDA;1;SIM;M02
+A018;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M02
+A019;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M02
+A019;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;2;SIM;M02
+A019;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M02
+A020;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M02
+A021;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;NAO;M03
+A021;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M03
+A021;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M03
+A022;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;2;SIM;M03
+A022;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M03
+A023;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M03
+A023;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;2;SIM;M03
+A024;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M03
+A024;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M03
+A024;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M03
+A025;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M03
+A025;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M03
+A025;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A026;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M03
+A026;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M03
+A026;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M03
+A027;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;NAO;M03
+A027;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M03
+A028;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M03
+A028;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M03
+A028;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M03
+A029;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;SIM;M03
+A030;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M03
+A030;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;2;NAO;M03
+A031;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A031;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M04
+A031;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A032;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;NAO;M04
+A032;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M04
+A033;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A033;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;1;CONCLUIDA;2;SIM;M04
+A033;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_INICIADA;0;NAO;M04
+A034;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A034;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M04
+A034;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M04
+A035;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A035;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;2;SIM;M04
+A035;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M04
+A036;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M04
+A036;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M04
+A036;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M04
+A037;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M04
+A038;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;NAO;M04
+A038;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;2;SIM;M04
+A038;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;2;NAO;M04
+A039;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M04
+A039;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M04
+A039;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;SIM;M04
+A040;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;1;SIM;M04
+A040;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;SIM;M04
+A040;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M04
+A041;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M05
+A041;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;1;CONCLUIDA;1;SIM;M05
+A041;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;SIM;M05
+A042;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;1;CONCLUIDA;2;SIM;M05
+A042;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M05
+A042;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;1;CONCLUIDA;1;SIM;M05
+A043;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M05
+A043;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M05
+A043;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M05
+A044;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M05
+A044;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M05
+A045;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M05
+A045;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M05
+A045;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M05
+A046;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M05
+A046;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;1;CONCLUIDA;2;SIM;M05
+A046;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M05
+A047;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M05
+A047;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;2;SIM;M05
+A047;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;1;CONCLUIDA;2;SIM;M05
+A048;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M05
+A048;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;NAO;M05
+A048;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M05
+A049;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M05
+A049;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;2;NAO;M05
+A049;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M05
+A050;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M05
+A050;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M05
+A051;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;NAO;M06
+A051;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M06
+A051;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;SIM;M06
+A052;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M06
+A052;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;2;NAO;M06
+A052;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M06
+A053;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;1;NAO;M06
+A053;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;3;CONCLUIDA;1;NAO;M06
+A053;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M06
+A054;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;SIM;M06
+A054;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;3;CONCLUIDA;1;NAO;M06
+A055;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;NAO_CONCLUIDA;2;NAO;M06
+A055;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;NAO;M06
+A055;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M06
+A056;2026-10-20;S6;presencial;t3_1;Texto bem feito;false;0;AUSENTE;0;NAO;M06
+A056;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;AUSENTE;0;NAO;M06
+A056;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;AUSENTE;0;NAO;M06
+A057;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M06
+A057;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;1;CONCLUIDA;2;SIM;M06
+A057;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;2;SIM;M06
+A058;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M06
+A058;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;SIM;M06
+A058;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;false;0;NAO_CONCLUIDA;1;NAO;M06
+A059;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;2;CONCLUIDA;2;SIM;M06
+A059;2026-10-20;S6;presencial;t3_2;Planilha de recursos;true;2;CONCLUIDA;1;SIM;M06
+A059;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;1;NAO;M06
+A060;2026-10-20;S6;presencial;t3_1;Texto bem feito;true;3;CONCLUIDA;1;NAO;M06
+A060;2026-10-20;S6;presencial;t3_2;Planilha de recursos;false;0;NAO_CONCLUIDA;1;NAO;M06
+A060;2026-10-20;S6;presencial;t3_3;Apresentação do mapa;true;2;CONCLUIDA;2;SIM;M06
