@@ -49,4 +49,4 @@
 
 O conjunto possui 60 identificadores distintos, 360 conexoes, 34 reconexoes e 326 participacoes em encontros. Foram registradas 8.231 ocorrencias de servidor e de atividades pedagogicas. As 603 conclusoes correspondem a 77,3% das 780 missoes possiveis para 60 participantes. 37 identificadores atingem pelo menos 70% das missoes.
 
-**Observacao metodologica:** os registros de sessoes no arquivo `.log` foram organizados a partir dos eventos de conexao e de aula presentes na mesma base do cenario; nao sao uma exportacao emitida ou validada pela hospedagem.
+**Observacao metodologica:** os registros de sessoes no arquivo `.log` foram organizados a partir dos eventos de conexao e de aula presentes na mesma base do cenario; 
